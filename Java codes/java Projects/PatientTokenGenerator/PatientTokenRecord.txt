@@ -1,0 +1,25 @@
+----------------------Token#-------------------------------
+Patient ID:	
+Name of the Patient:	
+CheckUp Date:	
+CheckUp Time:	
+Room Category:	No Room Selected
+-----------------------Thanks-------------------------------
+----------------------Token#71181-------------------------------
+Patient ID:	71181
+Name of the Patient:	khan 
+Sex:	Male
+CheckUp Date:	2023-07-30
+CheckUp Time:	22:50
+Doctor:	Dr Khan
+Room Category:	No Room Selected
+-----------------------Thanks-------------------------------
+----------------------Token#71181-------------------------------
+Patient ID:	71181
+Name of the Patient:	khan 
+Sex:	Male
+CheckUp Date:	2023-07-30
+CheckUp Time:	22:50
+Doctor:	Dr Khan
+Room Category:	No Room Selected
+-----------------------Thanks-------------------------------

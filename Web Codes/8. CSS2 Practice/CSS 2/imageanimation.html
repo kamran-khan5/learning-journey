@@ -1,0 +1,28 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+ <meta charset = "utf-8">
+ <title>Animation</title>
+ <style type = "text/css">
+ img
+ {
+ position: relative;
+ animation: movingImage linear 10s 2 1s 0;16 }
+@keyframes movingImage
+{
+0% {opacity: 1; left: 100px; top: 0px;}
+25% {opacity: 1; left: 0px; top:0px;}
+50% {opacity: 1; left: 0px; top: 100px;}
+75% {opacity: 1; left: 100px; top: 100px;}
+100% {opacity: 1; left: 100px; top: 0px;}
+}
+
+
+</style>
+ </head>
+ <body>
+ <img src = "1.jpg" width = "138" height = "180">
+ <div></div>
+ </body>
+ </html>
+

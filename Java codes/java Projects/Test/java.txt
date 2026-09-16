@@ -1,0 +1,40 @@
+
+------------------------FEE RECEIPT------------------------------
+Student Name: kamran khan
+Father's Name: khurshid ali
+RollNumber: sp22-bse-039
+Email ID: khan@gmail.com
+Contact Number: 0300000000
+Wants to take: CS
+Wants to Join in Evening
+Wants to be a Hostel Lite 
+Campus chosen: Abbottabad
+Education Level chosen: Under Graduate
+Total amount to be paid is 4 Lacs 
+------------------------THANK YOU------------------------------
+------------------------FEE RECEIPT------------------------------
+Student Name: abdullah
+Father's Name: zaheer
+RollNumber: sp22-bse-004
+Email ID: khan@gmail.com
+Contact Number: 0300000000
+Wants to take: CS
+Wants to Join in Evening
+Wants to be a Hostel Lite 
+Campus chosen: Abbottabad
+Education Level chosen: Under Graduate
+Total amount to be paid is 4 Lacs 
+------------------------THANK YOU------------------------------
+------------------------FEE RECEIPT------------------------------
+Student Name: waqas
+Father's Name: khan
+RollNumber: Sp22-BSE-039
+Email ID: Khan@gmail.com
+Contact Number: +92 3400000000
+Wants to take: SE
+Wants to Join in Morning
+Wants to be a Hostel Lite 
+Campus chosen: Abbottabad
+Education Level chosen: Under Graduate
+Total amount to be paid is 4 Lacs 
+------------------------THANK YOU------------------------------

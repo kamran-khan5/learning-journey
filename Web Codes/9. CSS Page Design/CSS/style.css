@@ -1,0 +1,102 @@
+#menu ul{
+list-style-type: none;
+width: auto;
+
+}
+ul li{
+    /* display: inline; */
+   /* float:left; ; */
+    border:2px solid black;
+    background-color: green;
+    color:red;
+    padding: 10px;
+    font-weight: bold;
+    margin: 2px ;
+    border-color: red;
+    border-radius: 5px;
+    font-size: large;
+    text-transform: uppercase;
+    opacity: 0.5;
+    width: 100px;
+    
+}
+ul{
+    display: none;
+}
+p:hover + ul{
+    display: block;
+}
+
+div#box{
+    border: 2px solid ;
+}
+span:hover+div {
+    color:red;
+}
+#menuhead{
+
+border: 2px solid;
+width: 100px;
+padding: 20px;
+background-color: brown;
+font-size: large;
+font-weight: bold;
+text-align: center;
+position: relative;
+left:43px; 
+text-align:left ;
+
+}
+/* *{
+    padding: 0px;
+    margin: 0px;
+} */
+/* body{
+    background-image: url(../HTML/BSE4B/images/comsatlogo.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+p{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    text-align: justify;
+    /* text-decoration-line:underline;
+    text-decoration-color:red;
+    text-decoration-style: solid;
+    text-decoration-thickness: 10px; */
+    /* text-decoration:  underline  solid red 5px;
+    text-shadow: 4px -4px 5px blue; */
+    /* border-style: solid;
+    border-color:rgba(13, 133, 41, 0.535); */
+    /* border-right: 2px solid red; */
+    /* background-color: aqua;       
+} */
+h1{
+    -webkit-text-stroke: 2px green;
+    color: red;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+#header{
+    margin-top: 30px;
+    border: 2px solid black;
+    /* padding: 15px; */
+    
+}
+.intro2{
+    border: 2px solid red;
+    /* padding: 15px; */
+    margin: 200px ;
+    position: relative;
+    top:60px;
+    left:30px;
+    right:30px
+
+}
+
+

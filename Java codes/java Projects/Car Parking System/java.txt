@@ -1,0 +1,11 @@
+  	====== Parking System ======
+
+  Parking Id :    		26726
+  Name :          		sdf
+  Contact no :    		0645
+  Vehicle Type :  		Two wheeler
+  Vehicle No :    		asd123
+  Parking Slot :  		1
+  Parking Days :  		2
+  Parking Charges :		5
+	 ====== Thank you ======
